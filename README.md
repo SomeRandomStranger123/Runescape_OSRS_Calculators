@@ -1,6 +1,8 @@
-# Runescape_OSRS_Calculators
+Runescape_OSRS_Calculators - 
+Repository of all the caclulators i've made during my time playing OSRS to help players be more efficent; No longer play anymore. 
+So, leaving these here in case someone in the future finds use in them  
 
-Range XP Calculator
+The Range XP Calculator
 A simple Python GUI application built with Tkinter to calculate ranged combat DPS, XP per hour, and estimated hours to reach a target ranged level in Old School RuneScape (OSRS). It supports rapid and accurate attack styles, including the effects of Void and Elite Void equipment bonuses.
 
 Features
